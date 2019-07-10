@@ -1,1 +1,9 @@
+__pycache__
+*.egg-info
+*.pyc
+.coverage
+.eggs
+.python-version
 .python_env*
+.tox
+coverage_html
