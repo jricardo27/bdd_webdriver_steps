@@ -2,6 +2,7 @@ __pycache__
 *.egg-info
 *.pyc
 .coverage
+.coverage.*
 .eggs
 .python-version
 .python_env*
