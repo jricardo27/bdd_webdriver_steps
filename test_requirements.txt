@@ -1,6 +1,7 @@
 aloe==0.1.19
 behave==1.2.6
 coverage==4.5.3
+eradicate==1.0
 isort==4.3.21
 pylama==7.7.1
 pylama_pylint==3.1.1
