@@ -20,7 +20,6 @@ if __name__ == '__main__':
         classifiers=[
             'Development Status :: 1 - Planning',
             'Programming Language :: Python',
-            'Programming Language :: Python :: 2',
             'Programming Language :: Python :: 3',
             'Topic :: Software Development :: Testing',
             'Operating System :: MacOS',
